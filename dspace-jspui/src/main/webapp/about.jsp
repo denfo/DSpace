@@ -108,6 +108,7 @@
 		</div>
 	    
 	    </div>
+        </div>
         
         <h3>ABOUT THE TEAM</h3>
         
@@ -151,6 +152,4 @@
     <h3>CREDIT FUNDING</h3>
         
     <p>StatSpace was developed as part of the UBC Flexible Learning Introductory Statistics Project funded by The University of British Columbia’s Teaching and Learning Enhancement Fund, The Faculty of Medicine, The Faculty of Science, and The Faculty of Arts.</p>
-    </div>
-
 </dspace:layout>
